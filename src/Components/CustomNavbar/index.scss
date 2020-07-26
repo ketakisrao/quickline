@@ -1,0 +1,13 @@
+@import "../../definitions";
+
+
+.navbar {
+    text-transform: uppercase;
+    background-color: $light-background;
+    padding: $default-padding;
+}
+
+.navbar-nav .nav-link {
+    padding-left: $nav-link-padding!important;
+    padding-right: $nav-link-padding!important;
+}
