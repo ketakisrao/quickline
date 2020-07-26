@@ -15,11 +15,11 @@ function CustomNavbar() {
                 <Nav className="ml-auto">
                     <NavDropdown title="Process" id="basic-nav-dropdown">
                         <NavDropdown.Item><Link to="/discovery">Discovery</Link></NavDropdown.Item>
-                        <NavDropdown.Item>Ideation</NavDropdown.Item>
-                        <NavDropdown.Item>Prototype</NavDropdown.Item>
+                        <NavDropdown.Item><Link to="/ideation">Ideation</Link></NavDropdown.Item>
+                        <NavDropdown.Item><Link to="/prototype">Prototype</Link></NavDropdown.Item>
                     </NavDropdown>
-                    <Nav.Link href="#home">Solution</Nav.Link>
-                    <Nav.Link href="#link">About Us</Nav.Link>
+                    <Nav.Link><Link to="/solution">Solution</Link></Nav.Link>
+                    <Nav.Link><Link to="/about">About Us</Link></Nav.Link>
                 </Nav>
             </Navbar.Collapse>
         </Navbar>

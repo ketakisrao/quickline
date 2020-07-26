@@ -3,7 +3,7 @@
 
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  font-family: 'Avenir', -apple-system, BlinkMacSystemFont, 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -28,8 +28,12 @@ code {
 
 
 
-@media (max-width: 576px) {
+//for sm + xs
+@media (max-width: 768px) {
     p {
         font-size: 0.8rem;
+    }
+    .hidden {
+        display: none;
     }
  }

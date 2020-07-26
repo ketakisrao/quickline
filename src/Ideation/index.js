@@ -4,19 +4,20 @@ import HeroImg from '../assets/prototype/HeroImg.png';
 import './index.scss';
 
 const info = {
-    title: 'Discovery',
-    desc: 'Over the course of 3 month, we conducted 15+ research activities to better understand travelers’ behaviors, attitudes, perceptions, decision making processes and social engagement associated with waiting in queues. ',
+    title: 'Ideation',
+    desc: 'We generated multiple design artifacts to continuously refine our core problem and brainstormed on various solutions that focus on providing PIT travelers transparency, control, and efficiency.',
     heroImg: HeroImg
 };
 
-function Discovery() {
+function Ideation() {
     return (
         <div>
             <Hero info={info}></Hero>
             <div className="content">
+                <p>Hi I am Ideation</p>
             </div>
         </div>
     );
 }
 
-export default Discovery;
+export default Ideation;

@@ -1,0 +1,59 @@
+@import "../definitions";
+
+//mobile
+.hero-sol {
+    background-color: $light-background;
+    padding: $default-padding;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    text-align: center;
+    p {
+        width: 100%;
+    }
+    
+    .container {
+        padding: 0;
+    }
+    .full-width {
+        width: 75%;
+    }
+    img {
+        padding-top: 2rem;
+    }
+}
+
+.modes {
+    text-align: center;
+    background-color: $primary;
+    color: #fff;
+    padding: $default-padding;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    h2 {
+        margin-bottom: 2rem;
+    }
+    p {
+        width: 100%;
+    }
+}
+
+//big screens
+@media (min-width: 768px) {
+    .hero-sol {
+        display: block;
+        p {
+            margin: 0 auto;
+            width: 30rem;
+        }
+        .full-width {
+            width: 80%;
+        }
+    }
+
+    .modes {
+        p {
+            margin: 0 auto;
+            width: 30rem;
+        }
+    }
+ }
