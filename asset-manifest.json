@@ -1,28 +1,35 @@
 {
   "files": {
-    "main.css": "/quickline/static/css/main.9a70614f.chunk.css",
-    "main.js": "/quickline/static/js/main.2e674cac.chunk.js",
-    "main.js.map": "/quickline/static/js/main.2e674cac.chunk.js.map",
+    "main.css": "/quickline/static/css/main.c06d3497.chunk.css",
+    "main.js": "/quickline/static/js/main.75fa50bb.chunk.js",
+    "main.js.map": "/quickline/static/js/main.75fa50bb.chunk.js.map",
     "runtime-main.js": "/quickline/static/js/runtime-main.cc49de10.js",
     "runtime-main.js.map": "/quickline/static/js/runtime-main.cc49de10.js.map",
     "static/css/2.af3c1da9.chunk.css": "/quickline/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.32d63b02.chunk.js": "/quickline/static/js/2.32d63b02.chunk.js",
-    "static/js/2.32d63b02.chunk.js.map": "/quickline/static/js/2.32d63b02.chunk.js.map",
+    "static/js/2.d6c5fdd6.chunk.js": "/quickline/static/js/2.d6c5fdd6.chunk.js",
+    "static/js/2.d6c5fdd6.chunk.js.map": "/quickline/static/js/2.d6c5fdd6.chunk.js.map",
     "index.html": "/quickline/index.html",
-    "precache-manifest.164a720b7bd2768a199f9cf6aefdb97e.js": "/quickline/precache-manifest.164a720b7bd2768a199f9cf6aefdb97e.js",
+    "precache-manifest.ddf1cc48dd1009d049ab494b1286dab1.js": "/quickline/precache-manifest.ddf1cc48dd1009d049ab494b1286dab1.js",
     "service-worker.js": "/quickline/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/quickline/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.9a70614f.chunk.css.map": "/quickline/static/css/main.9a70614f.chunk.css.map",
-    "static/js/2.32d63b02.chunk.js.LICENSE.txt": "/quickline/static/js/2.32d63b02.chunk.js.LICENSE.txt",
+    "static/css/main.c06d3497.chunk.css.map": "/quickline/static/css/main.c06d3497.chunk.css.map",
+    "static/js/2.d6c5fdd6.chunk.js.LICENSE.txt": "/quickline/static/js/2.d6c5fdd6.chunk.js.LICENSE.txt",
     "static/media/AppIcon.svg": "/quickline/static/media/AppIcon.0391d443.svg",
     "static/media/ChatIcon.svg": "/quickline/static/media/ChatIcon.d64020a9.svg",
-    "static/media/HeroImg.png": "/quickline/static/media/HeroImg.e254f860.png"
+    "static/media/Crazy8.png": "/quickline/static/media/Crazy8.b0c46a32.png",
+    "static/media/HeroImg.png": "/quickline/static/media/HeroImg.e254f860.png",
+    "static/media/idea1.png": "/quickline/static/media/idea1.affa7a16.png",
+    "static/media/idea2.png": "/quickline/static/media/idea2.d4667088.png",
+    "static/media/idea3.png": "/quickline/static/media/idea3.88f8d29a.png",
+    "static/media/quote1.svg": "/quickline/static/media/quote1.b6c858ea.svg",
+    "static/media/quote2.svg": "/quickline/static/media/quote2.8deb5a0b.svg",
+    "static/media/story1.png": "/quickline/static/media/story1.01899828.png"
   },
   "entrypoints": [
     "static/js/runtime-main.cc49de10.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.32d63b02.chunk.js",
-    "static/css/main.9a70614f.chunk.css",
-    "static/js/main.2e674cac.chunk.js"
+    "static/js/2.d6c5fdd6.chunk.js",
+    "static/css/main.c06d3497.chunk.css",
+    "static/js/main.75fa50bb.chunk.js"
   ]
 }
