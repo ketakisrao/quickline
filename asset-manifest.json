@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/quickline/static/css/main.ee641894.chunk.css",
-    "main.js": "/quickline/static/js/main.12885110.chunk.js",
-    "main.js.map": "/quickline/static/js/main.12885110.chunk.js.map",
+    "main.css": "/quickline/static/css/main.72236171.chunk.css",
+    "main.js": "/quickline/static/js/main.6111829a.chunk.js",
+    "main.js.map": "/quickline/static/js/main.6111829a.chunk.js.map",
     "runtime-main.js": "/quickline/static/js/runtime-main.cc49de10.js",
     "runtime-main.js.map": "/quickline/static/js/runtime-main.cc49de10.js.map",
     "static/css/2.af3c1da9.chunk.css": "/quickline/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.df5bb52f.chunk.js": "/quickline/static/js/2.df5bb52f.chunk.js",
-    "static/js/2.df5bb52f.chunk.js.map": "/quickline/static/js/2.df5bb52f.chunk.js.map",
+    "static/js/2.dfd3ceec.chunk.js": "/quickline/static/js/2.dfd3ceec.chunk.js",
+    "static/js/2.dfd3ceec.chunk.js.map": "/quickline/static/js/2.dfd3ceec.chunk.js.map",
     "index.html": "/quickline/index.html",
-    "precache-manifest.be58db79826c7fb23db4151439f847f1.js": "/quickline/precache-manifest.be58db79826c7fb23db4151439f847f1.js",
+    "precache-manifest.cfd8f93505b88ec621960ff7a0490ac9.js": "/quickline/precache-manifest.cfd8f93505b88ec621960ff7a0490ac9.js",
     "service-worker.js": "/quickline/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/quickline/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.ee641894.chunk.css.map": "/quickline/static/css/main.ee641894.chunk.css.map",
-    "static/js/2.df5bb52f.chunk.js.LICENSE.txt": "/quickline/static/js/2.df5bb52f.chunk.js.LICENSE.txt",
+    "static/css/main.72236171.chunk.css.map": "/quickline/static/css/main.72236171.chunk.css.map",
+    "static/js/2.dfd3ceec.chunk.js.LICENSE.txt": "/quickline/static/js/2.dfd3ceec.chunk.js.LICENSE.txt",
     "static/media/AppIcon.svg": "/quickline/static/media/AppIcon.0391d443.svg",
     "static/media/ChatIcon.svg": "/quickline/static/media/ChatIcon.d64020a9.svg",
     "static/media/HeroImg.png": "/quickline/static/media/HeroImg.e254f860.png"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.cc49de10.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.df5bb52f.chunk.js",
-    "static/css/main.ee641894.chunk.css",
-    "static/js/main.12885110.chunk.js"
+    "static/js/2.dfd3ceec.chunk.js",
+    "static/css/main.72236171.chunk.css",
+    "static/js/main.6111829a.chunk.js"
   ]
 }
