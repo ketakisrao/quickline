@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "752b8116462f761ed2272e15e8b80345",
+    "revision": "06baae1eee0b56f11a38522ff3b3943c",
     "url": "/quickline/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/quickline/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "18273e447e762b0dd3a7",
-    "url": "/quickline/static/css/main.83a6fd54.chunk.css"
+    "revision": "8273bace2d2813fa45cb",
+    "url": "/quickline/static/css/main.7076752e.chunk.css"
   },
   {
     "revision": "a7c1dcef0c7b629bfe78",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/quickline/static/js/2.978b1690.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "18273e447e762b0dd3a7",
+    "revision": "8273bace2d2813fa45cb",
     "url": "/quickline/static/js/main.5077ae59.chunk.js"
   },
   {
@@ -34,6 +34,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0391d443906c72997aaafa70e1d9615b",
     "url": "/quickline/static/media/AppIcon.0391d443.svg"
+  },
+  {
+    "revision": "f45ffdd79283a82c7b991f569b3b399b",
+    "url": "/quickline/static/media/Avenir0.f45ffdd7.ttf"
+  },
+  {
+    "revision": "99e1abf6663b72192627381624e75296",
+    "url": "/quickline/static/media/Avenir2.99e1abf6.ttf"
+  },
+  {
+    "revision": "7616033346efe07ac5fc6665cce148c7",
+    "url": "/quickline/static/media/Avenir4.76160333.ttf"
   },
   {
     "revision": "d64020a9a02fe42940c0f0a22e8152c4",
