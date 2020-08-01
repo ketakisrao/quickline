@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/quickline/static/css/main.20cb1fa9.chunk.css",
-    "main.js": "/quickline/static/js/main.29d7c8b6.chunk.js",
-    "main.js.map": "/quickline/static/js/main.29d7c8b6.chunk.js.map",
+    "main.js": "/quickline/static/js/main.2b9fc92d.chunk.js",
+    "main.js.map": "/quickline/static/js/main.2b9fc92d.chunk.js.map",
     "runtime-main.js": "/quickline/static/js/runtime-main.cc49de10.js",
     "runtime-main.js.map": "/quickline/static/js/runtime-main.cc49de10.js.map",
     "static/css/2.af3c1da9.chunk.css": "/quickline/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.17181e2a.chunk.js": "/quickline/static/js/2.17181e2a.chunk.js",
-    "static/js/2.17181e2a.chunk.js.map": "/quickline/static/js/2.17181e2a.chunk.js.map",
+    "static/js/2.336b3770.chunk.js": "/quickline/static/js/2.336b3770.chunk.js",
+    "static/js/2.336b3770.chunk.js.map": "/quickline/static/js/2.336b3770.chunk.js.map",
     "index.html": "/quickline/index.html",
-    "precache-manifest.417ab4c5c0995392a47a6762e6f1651e.js": "/quickline/precache-manifest.417ab4c5c0995392a47a6762e6f1651e.js",
+    "precache-manifest.92a0d53b1cdb55c70cb0a2d3a7a4f263.js": "/quickline/precache-manifest.92a0d53b1cdb55c70cb0a2d3a7a4f263.js",
     "service-worker.js": "/quickline/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/quickline/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.20cb1fa9.chunk.css.map": "/quickline/static/css/main.20cb1fa9.chunk.css.map",
-    "static/js/2.17181e2a.chunk.js.LICENSE.txt": "/quickline/static/js/2.17181e2a.chunk.js.LICENSE.txt",
+    "static/js/2.336b3770.chunk.js.LICENSE.txt": "/quickline/static/js/2.336b3770.chunk.js.LICENSE.txt",
     "static/media/AirIcon.svg": "/quickline/static/media/AirIcon.613a0d55.svg",
     "static/media/AppIcon.svg": "/quickline/static/media/AppIcon.0391d443.svg",
     "static/media/index.scss": "/quickline/static/media/Avenir4.76160333.ttf",
@@ -54,6 +54,7 @@
     "static/media/st3.png": "/quickline/static/media/st3.b27bb569.png",
     "static/media/st4.png": "/quickline/static/media/st4.4d5c1c38.png",
     "static/media/story1.png": "/quickline/static/media/story1.01899828.png",
+    "static/media/tce.png": "/quickline/static/media/tce.814b7ba4.png",
     "static/media/team.png": "/quickline/static/media/team.600e2465.png",
     "static/media/thinkaloud.png": "/quickline/static/media/thinkaloud.20f2c1a3.png",
     "static/media/tpm1.png": "/quickline/static/media/tpm1.55ce2471.png",
@@ -63,8 +64,8 @@
   "entrypoints": [
     "static/js/runtime-main.cc49de10.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.17181e2a.chunk.js",
+    "static/js/2.336b3770.chunk.js",
     "static/css/main.20cb1fa9.chunk.css",
-    "static/js/main.29d7c8b6.chunk.js"
+    "static/js/main.2b9fc92d.chunk.js"
   ]
 }
