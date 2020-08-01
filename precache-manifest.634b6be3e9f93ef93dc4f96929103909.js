@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "079d91b66e99d794ea7e499a6098eeeb",
+    "revision": "e1ae7f21d73033bd4028a0d716a576f2",
     "url": "/quickline/index.html"
   },
   {
-    "revision": "35d9ab2ac3e44186a751",
+    "revision": "53b5b6f1cdec7dc85a98",
     "url": "/quickline/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "19b87ba2733617f7306d",
-    "url": "/quickline/static/css/main.063afec3.chunk.css"
+    "revision": "a7c155c307ae300c92df",
+    "url": "/quickline/static/css/main.2f250102.chunk.css"
   },
   {
-    "revision": "35d9ab2ac3e44186a751",
-    "url": "/quickline/static/js/2.b19ae1c6.chunk.js"
+    "revision": "53b5b6f1cdec7dc85a98",
+    "url": "/quickline/static/js/2.0a13f15e.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/quickline/static/js/2.b19ae1c6.chunk.js.LICENSE.txt"
+    "url": "/quickline/static/js/2.0a13f15e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "19b87ba2733617f7306d",
-    "url": "/quickline/static/js/main.c1efb441.chunk.js"
+    "revision": "a7c155c307ae300c92df",
+    "url": "/quickline/static/js/main.7b0189b2.chunk.js"
   },
   {
     "revision": "846bf80bcbc7b62842bf",
@@ -68,12 +68,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/quickline/static/media/HeroImg.c905a340.png"
   },
   {
-    "revision": "df4c4dff062e43d4a0b7628c0f760afc",
-    "url": "/quickline/static/media/HeroImg.df4c4dff.png"
-  },
-  {
     "revision": "e254f860fa5c34f9ec61ae697c669e50",
     "url": "/quickline/static/media/HeroImg.e254f860.png"
+  },
+  {
+    "revision": "fbe189881376e8146baf084da0e9fe54",
+    "url": "/quickline/static/media/HeroImg.fbe18988.png"
   },
   {
     "revision": "1c4a7ea9cf82b6563946ab85466d65d8",
@@ -88,8 +88,40 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/quickline/static/media/NUF.f2235835.png"
   },
   {
+    "revision": "08b9f61f095dc9f184009549d0066ee1",
+    "url": "/quickline/static/media/TP1.08b9f61f.png"
+  },
+  {
+    "revision": "ea89f0a608918f7804a2ba6e8fcdc264",
+    "url": "/quickline/static/media/TP2.ea89f0a6.png"
+  },
+  {
+    "revision": "6d92a4320901aa8218910aa186aac2eb",
+    "url": "/quickline/static/media/VQ1.6d92a432.png"
+  },
+  {
+    "revision": "6a0ea2a937332b0ab756279f63af53e8",
+    "url": "/quickline/static/media/VQ2.6a0ea2a9.png"
+  },
+  {
     "revision": "794debd38e7c054645877fb184ae23e0",
     "url": "/quickline/static/media/affinity.794debd3.png"
+  },
+  {
+    "revision": "22e9542d8e28f41f39c873693f930aa5",
+    "url": "/quickline/static/media/bullseye.22e9542d.png"
+  },
+  {
+    "revision": "ed5e8f0004f3a4d1db92f679c225eb29",
+    "url": "/quickline/static/media/card-dot.ed5e8f00.svg"
+  },
+  {
+    "revision": "36e1c8a51f0b465cfd3ebb5440c00a6d",
+    "url": "/quickline/static/media/card1.36e1c8a5.png"
+  },
+  {
+    "revision": "4c2d564801017efa949f953279f3e588",
+    "url": "/quickline/static/media/card2.4c2d5648.png"
   },
   {
     "revision": "5ce19ef43e483898161ee48a7851e35d",
@@ -118,6 +150,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3390b846f828b6320f632ff90a337519",
     "url": "/quickline/static/media/pretotype.3390b846.png"
+  },
+  {
+    "revision": "854c0d4580be50a946b80299df1642df",
+    "url": "/quickline/static/media/prior.854c0d45.png"
   },
   {
     "revision": "4206540823967d5d39375c365ea5a030",
@@ -168,7 +204,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/quickline/static/media/story1.01899828.png"
   },
   {
+    "revision": "600e24654680840af8a3f33cc86efe38",
+    "url": "/quickline/static/media/team.600e2465.png"
+  },
+  {
     "revision": "20f2c1a37229fc126bbdcf46c9cd9263",
     "url": "/quickline/static/media/thinkaloud.20f2c1a3.png"
+  },
+  {
+    "revision": "55ce24719bf8735ffd04e8d10d3dd365",
+    "url": "/quickline/static/media/tpm1.55ce2471.png"
+  },
+  {
+    "revision": "804a14fb462cd3948ddec684a20fbf0b",
+    "url": "/quickline/static/media/tpm2.804a14fb.png"
+  },
+  {
+    "revision": "b19cd6c5d0065929477e5e839a4d2bb0",
+    "url": "/quickline/static/media/vq.b19cd6c5.png"
   }
 ]);
