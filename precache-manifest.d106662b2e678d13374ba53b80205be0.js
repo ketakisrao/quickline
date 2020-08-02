@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "60fc384bad7fbe7b8196d35a6f62fe40",
+    "revision": "969b9cbe10ec0d87171eef5ef8f4343b",
     "url": "/quickline/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/quickline/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "0613c5d9ae69d8beab6e",
-    "url": "/quickline/static/css/main.0a6551ee.chunk.css"
+    "revision": "ce76e9558c42c196050f",
+    "url": "/quickline/static/css/main.1892ca0c.chunk.css"
   },
   {
     "revision": "f2c8c953e1dfb079cf3d",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/quickline/static/js/2.403c0556.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0613c5d9ae69d8beab6e",
-    "url": "/quickline/static/js/main.54f444b1.chunk.js"
+    "revision": "ce76e9558c42c196050f",
+    "url": "/quickline/static/js/main.aee61ca9.chunk.js"
   },
   {
     "revision": "846bf80bcbc7b62842bf",
@@ -38,14 +38,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f45ffdd79283a82c7b991f569b3b399b",
     "url": "/quickline/static/media/Avenir0.f45ffdd7.ttf"
-  },
-  {
-    "revision": "99e1abf6663b72192627381624e75296",
-    "url": "/quickline/static/media/Avenir2.99e1abf6.ttf"
-  },
-  {
-    "revision": "7616033346efe07ac5fc6665cce148c7",
-    "url": "/quickline/static/media/Avenir4.76160333.ttf"
   },
   {
     "revision": "d64020a9a02fe42940c0f0a22e8152c4",

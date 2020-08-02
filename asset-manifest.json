@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/quickline/static/css/main.0a6551ee.chunk.css",
-    "main.js": "/quickline/static/js/main.54f444b1.chunk.js",
-    "main.js.map": "/quickline/static/js/main.54f444b1.chunk.js.map",
+    "main.css": "/quickline/static/css/main.1892ca0c.chunk.css",
+    "main.js": "/quickline/static/js/main.aee61ca9.chunk.js",
+    "main.js.map": "/quickline/static/js/main.aee61ca9.chunk.js.map",
     "runtime-main.js": "/quickline/static/js/runtime-main.cc49de10.js",
     "runtime-main.js.map": "/quickline/static/js/runtime-main.cc49de10.js.map",
     "static/css/2.af3c1da9.chunk.css": "/quickline/static/css/2.af3c1da9.chunk.css",
     "static/js/2.403c0556.chunk.js": "/quickline/static/js/2.403c0556.chunk.js",
     "static/js/2.403c0556.chunk.js.map": "/quickline/static/js/2.403c0556.chunk.js.map",
     "index.html": "/quickline/index.html",
-    "precache-manifest.635ebd9cf1d3e6e1cbdd700004a5c5bc.js": "/quickline/precache-manifest.635ebd9cf1d3e6e1cbdd700004a5c5bc.js",
+    "precache-manifest.d106662b2e678d13374ba53b80205be0.js": "/quickline/precache-manifest.d106662b2e678d13374ba53b80205be0.js",
     "service-worker.js": "/quickline/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/quickline/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.0a6551ee.chunk.css.map": "/quickline/static/css/main.0a6551ee.chunk.css.map",
+    "static/css/main.1892ca0c.chunk.css.map": "/quickline/static/css/main.1892ca0c.chunk.css.map",
     "static/js/2.403c0556.chunk.js.LICENSE.txt": "/quickline/static/js/2.403c0556.chunk.js.LICENSE.txt",
     "static/media/AirIcon.svg": "/quickline/static/media/AirIcon.613a0d55.svg",
     "static/media/AppIcon.svg": "/quickline/static/media/AppIcon.0391d443.svg",
-    "static/media/index.scss": "/quickline/static/media/Avenir4.76160333.ttf",
+    "static/media/index.scss": "/quickline/static/media/Avenir0.f45ffdd7.ttf",
     "static/media/ChatIcon.svg": "/quickline/static/media/ChatIcon.d64020a9.svg",
     "static/media/Crazy8.png": "/quickline/static/media/Crazy8.b0c46a32.png",
     "static/media/HeroImg.png": "/quickline/static/media/HeroImg.fbe18988.png",
@@ -77,7 +77,7 @@
     "static/js/runtime-main.cc49de10.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.403c0556.chunk.js",
-    "static/css/main.0a6551ee.chunk.css",
-    "static/js/main.54f444b1.chunk.js"
+    "static/css/main.1892ca0c.chunk.css",
+    "static/js/main.aee61ca9.chunk.js"
   ]
 }
