@@ -5,6 +5,7 @@ import {
     Switch,
     Route
 } from "react-router-dom";
+import ScrollToTop from "./Components/ScrollToTop";
 import Discovery from './Discovery';
 import Ideation from './Ideation';
 import Prototype from './Prototype';
@@ -14,8 +15,10 @@ import Home from './Home';
 import './App.scss';
 
 function App() {
+    
     return (
         <Router basename="/quickline">
+            <ScrollToTop />
             <CustomNavbar></CustomNavbar>
             <Switch>
                 <Route exact path="/" component={Home}>

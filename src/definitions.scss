@@ -1,8 +1,16 @@
 
 /*Constants*/
-$default-padding: 0 8vw;
+$default-padding: 0 12vw;
+$default-vertical-padding: 4rem;
+$default-border-radius: 1rem;
 $nav-link-padding: 2rem;
 $light-background: #EFEBFF;
 $light-text-color: #A0A0A0;
+$default-margin-bottom: 2rem;
 
-$primary: #4E2AFF
+
+$primary: #4E2AFF;
+
+// @media (max-width: 767px) {
+//     $default-padding: 0 8vw;
+// }

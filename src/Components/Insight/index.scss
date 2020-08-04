@@ -1,0 +1,15 @@
+@import '../../definitions.scss';
+
+.insight {
+    padding: 2rem;
+}
+
+@media (max-width: 576px) {
+    .insight {
+        padding-left: 0;
+        padding-right: 0;
+        p {
+            font-size: 0.9rem;
+        }
+    }
+}

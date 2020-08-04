@@ -1,0 +1,41 @@
+@import "../../definitions";
+
+
+.about-card {
+    margin: 0 auto;
+    padding: 4rem 0;
+    width: 50rem;
+    display: flex;
+    max-width: 100%;
+    .about-img {
+        flex: 1;
+        img {
+            width: 100%;
+        }
+    }
+    .about-info {
+        flex: 3;
+        margin-left: 12vw;
+        .title {
+            color: $primary;
+            text-transform: uppercase;
+            font-size: 0.8rem;
+            letter-spacing: 0.08rem;
+            margin-bottom: 5px;
+        }
+        .portfolio {
+            color: $primary;
+            text-transform: uppercase;
+            letter-spacing: 0.08rem;
+            font-size: 0.9rem;
+        }
+    }
+}
+
+@media (max-width: 768px) {
+    .about-card {
+        .about-info {
+            margin-left: 5vw;
+        }
+    }
+}

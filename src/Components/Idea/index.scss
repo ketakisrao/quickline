@@ -1,0 +1,32 @@
+@import "../../definitions";
+
+.idea {
+    display: flex;
+    flex-direction: row;
+    .title {
+        flex: 1;
+        font-weight: bold;
+        color: $primary;
+        p {
+            max-width: 100%;
+        }
+    }
+    .desc {
+        flex: 3;
+    }
+}
+
+@media (max-width: 768px) {
+    .idea {
+        display: block;
+        div {
+            width: 100%;
+        }
+        .title {
+            p {
+                font-size: 1rem;
+                width: 100%;
+            }
+        }
+    }
+ }

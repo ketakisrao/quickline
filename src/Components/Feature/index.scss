@@ -1,14 +1,14 @@
 @import "../../definitions";
 
 .feature-card {
-    padding: 1.5rem;
+    width: 18rem;
+    max-width: 100%;
+    margin: 0 auto;
     .feature-img {
         height: 12rem;
-        .circle {
+        img {
             width: 6rem;
-            height: 6rem;
-            border-radius: 50%;
-            background-color: $light-background;
+            max-width: 100%;
         }
     }
     .feature-content {
@@ -23,9 +23,3 @@
     }
 
 }
-
-@media (max-width: 576px) {
-    .feature-card {
-        padding: 0 4rem;
-    }
- }

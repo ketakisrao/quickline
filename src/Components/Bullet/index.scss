@@ -1,0 +1,28 @@
+@import "../../definitions";
+
+
+.bullet-card {
+    display: flex;
+    background-color: #fff;
+    height: 100%;
+    padding: 1.5rem 1rem;
+    border-radius: 0.5rem;
+    .bullet-img {
+        width: 20%;
+        img {
+            width: 100%;
+            padding: 0!important;
+        }
+    }
+    .bullet-info {
+        width: 80%;
+        padding-left: 1vw;
+        flex: 3;
+        h6 {
+            text-transform: uppercase;
+        }
+        p {
+            margin: 0!important;
+        }
+    }
+}

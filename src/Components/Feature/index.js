@@ -9,9 +9,7 @@ function Feature(props) {
         <Col xs={12} sm={4} md={4} lg={4} xl={4}>
             <div className="feature-card">
                 <div className="feature-img centered-item">
-                    <div className="circle centered-item">
-                        <img />
-                    </div>
+                    <img src={info.icon} />
                 </div>
                 <div className="feature-content">
                     <h4>{info.title}</h4>
@@ -21,5 +19,4 @@ function Feature(props) {
         </Col>
     );
 }
-
 export default Feature;

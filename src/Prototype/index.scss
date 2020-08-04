@@ -1,0 +1,28 @@
+@import "../definitions.scss";
+
+.ideation-section {
+    padding: $default-padding;
+    padding-top: $default-vertical-padding;
+    padding-bottom: $default-vertical-padding;
+}
+
+
+.user-testing {
+    background-color: #fff;
+    margin-top: 2rem;
+    text-align: center;
+    img {
+        padding: 2rem;
+    }
+}
+
+.text {
+    padding-left: 4vw;
+}
+
+
+@media (max-width: 768px) {
+    .text {
+        padding-left: 0;
+    }
+}

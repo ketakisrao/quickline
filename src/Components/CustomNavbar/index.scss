@@ -1,15 +1,50 @@
 @import "../../definitions";
 
-
+.light-bg {
+    background-color: $light-background;
+}
 .navbar {
     text-transform: uppercase;
-    background-color: $light-background;
     padding: $default-padding;
+    font-size: 0.9rem!important;
+    letter-spacing: 0.1rem!important;
+    color: #000;
+}
+
+.navbar-brand {
+    font-size: 0.9rem;
+    padding: 0.5rem;
 }
 
 .navbar-nav .nav-link {
+    padding: 1.5rem;
     padding-left: $nav-link-padding!important;
     padding-right: $nav-link-padding!important;
 }
 
+.navbar a {
+    color: #000;
+}
 
+.dropdown-item:hover {
+    text-decoration: none;
+    a {
+        text-decoration: none;;
+    }
+}
+
+.dropdown-item {
+    font-size: 0.9rem;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+        // color: #fff!important;
+        a {
+            color: #fff;
+        }
+        background-color: $primary!important;
+}
+
+.basic-nav-dropdown {
+
+}

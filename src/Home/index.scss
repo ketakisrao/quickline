@@ -1,0 +1,103 @@
+@import '../definitions.scss';
+
+.home-hero {
+    padding: $default-padding;
+    padding-top: $default-vertical-padding;
+    padding-bottom: $default-vertical-padding;
+    p {
+        color: $light-text-color;
+    }
+}
+
+.air-icon {
+    height: 4rem;
+}
+
+
+.big-quote {
+    img {
+        width: 80%;
+    }
+    text-align: center;
+    margin-bottom: 4rem;
+    color: $primary;
+}
+
+.partners {
+    width: 30rem;
+    max-width: 100%;
+}
+
+.weird-background {
+    background-color: #A4A0C1;
+}
+
+.carousel-i {
+    width: 100%;
+    // background-color: $light-background;
+    padding: 4rem 0;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    div {
+        
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        max-width: 70%;
+        width: 40rem;
+        height: 10rem;
+        background-color: #fff;
+        padding: 2rem;
+        border-radius: $default-border-radius;
+        box-shadow: 0px 0px 94px rgba(18, 61, 101, 0.1);
+    }
+}
+
+.carousel-control-prev, .carousel-control-next {
+    opacity: 1;
+    .carousel-control-prev-icon, .carousel-control-next-icon {
+        box-shadow: 0px 0px 94px rgba(18, 61, 101, 0.5);
+        background-color: #fff;
+        height: 3rem;
+        width: 3rem;
+        border-radius: 50%;
+    }
+    .carousel-control-prev-icon:before {
+        content: 'A';
+        color: $primary;
+        font-family: 'glyph';
+        line-height: 1rem;
+        line-height: 3rem;
+        font-weight: bold;
+        vertical-align: middle;;
+    }
+    .carousel-control-next-icon:before {
+        content: 'B';
+        color: $primary;
+        font-family: 'glyph';
+        line-height: 1rem;
+        line-height: 3rem;
+        font-weight: bold;
+        vertical-align: middle;;
+    }
+}
+
+.carousel-indicators {
+    li {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+    }
+    li.active {
+        background-color: $primary;
+    }
+}
+
+.quote-open, .quote-close {
+    font-weight: 900;
+    font-size: 1.2rem;
+    font-family: 'Ariel';
+    padding: 0 0.5rem;
+}

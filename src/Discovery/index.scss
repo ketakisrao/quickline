@@ -1,0 +1,30 @@
+@import "../definitions.scss";
+
+.ideation-section {
+    padding: $default-padding;
+    padding-top: $default-vertical-padding;
+    padding-bottom: $default-vertical-padding;
+    
+}
+
+.cards {
+    .row {
+        margin-top: 2rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .half-to-full {
+        .half-width {
+            width: 100%;
+        }
+    }
+    .cards {
+        .row {
+            margin-top: 0;
+        }
+        .col-12 {
+            margin-top: 2rem;
+        }
+    }
+}
