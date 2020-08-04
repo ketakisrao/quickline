@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/quickline/static/css/main.1746fb01.chunk.css",
+    "main.css": "/quickline/static/css/main.37fa6366.chunk.css",
     "main.js": "/quickline/static/js/main.fdc93390.chunk.js",
     "main.js.map": "/quickline/static/js/main.fdc93390.chunk.js.map",
     "runtime-main.js": "/quickline/static/js/runtime-main.cc49de10.js",
@@ -9,10 +9,10 @@
     "static/js/2.4cf476d7.chunk.js": "/quickline/static/js/2.4cf476d7.chunk.js",
     "static/js/2.4cf476d7.chunk.js.map": "/quickline/static/js/2.4cf476d7.chunk.js.map",
     "index.html": "/quickline/index.html",
-    "precache-manifest.f0ef4efb803257de8387fb148062908e.js": "/quickline/precache-manifest.f0ef4efb803257de8387fb148062908e.js",
+    "precache-manifest.e6ca5fa228e927b5192534b39889deef.js": "/quickline/precache-manifest.e6ca5fa228e927b5192534b39889deef.js",
     "service-worker.js": "/quickline/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/quickline/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.1746fb01.chunk.css.map": "/quickline/static/css/main.1746fb01.chunk.css.map",
+    "static/css/main.37fa6366.chunk.css.map": "/quickline/static/css/main.37fa6366.chunk.css.map",
     "static/js/2.4cf476d7.chunk.js.LICENSE.txt": "/quickline/static/js/2.4cf476d7.chunk.js.LICENSE.txt",
     "static/media/AirIcon.svg": "/quickline/static/media/AirIcon.613a0d55.svg",
     "static/media/AppIcon.svg": "/quickline/static/media/AppIcon.0391d443.svg",
@@ -86,7 +86,7 @@
     "static/js/runtime-main.cc49de10.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.4cf476d7.chunk.js",
-    "static/css/main.1746fb01.chunk.css",
+    "static/css/main.37fa6366.chunk.css",
     "static/js/main.fdc93390.chunk.js"
   ]
 }
