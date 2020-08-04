@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aed7740d6e5b472c53399e55addc63cc",
+    "revision": "0acede667f0573a8d684b6597ea300e5",
     "url": "/quickline/index.html"
   },
   {
-    "revision": "5b3e99a2dae54c8f539a",
+    "revision": "7e7405835c9196caab9c",
     "url": "/quickline/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "4841a136f14494aa308f",
-    "url": "/quickline/static/css/main.3e1480de.chunk.css"
+    "revision": "a44eb3d529377b76e609",
+    "url": "/quickline/static/css/main.843e17be.chunk.css"
   },
   {
-    "revision": "5b3e99a2dae54c8f539a",
-    "url": "/quickline/static/js/2.c343f127.chunk.js"
+    "revision": "7e7405835c9196caab9c",
+    "url": "/quickline/static/js/2.e9b56d98.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/quickline/static/js/2.c343f127.chunk.js.LICENSE.txt"
+    "url": "/quickline/static/js/2.e9b56d98.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4841a136f14494aa308f",
-    "url": "/quickline/static/js/main.3b2a4c40.chunk.js"
+    "revision": "a44eb3d529377b76e609",
+    "url": "/quickline/static/js/main.d87e3055.chunk.js"
   },
   {
     "revision": "846bf80bcbc7b62842bf",
@@ -180,16 +180,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/quickline/static/media/hmw.4eb66344.svg"
   },
   {
-    "revision": "5c1792b7d5501e6a42dc9b300086b782",
-    "url": "/quickline/static/media/idea1.5c1792b7.png"
+    "revision": "e2dde7b88cf1ef518e569d117032b348",
+    "url": "/quickline/static/media/idea1.e2dde7b8.png"
   },
   {
-    "revision": "2d73cb7cf26903702c0914614ab835f3",
-    "url": "/quickline/static/media/idea2.2d73cb7c.png"
+    "revision": "0a67ddad3c9688d15e88878ccbd016fa",
+    "url": "/quickline/static/media/idea2.0a67ddad.png"
   },
   {
-    "revision": "c5320368b628d86b5f2dfdcce6056488",
-    "url": "/quickline/static/media/idea3.c5320368.png"
+    "revision": "19c582bee4c47252193fe35cd87bd52e",
+    "url": "/quickline/static/media/idea3.19c582be.png"
   },
   {
     "revision": "6fdbc3a948c265b8dd5cf2ec031c5b59",
