@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/quickline/static/css/main.14c89771.chunk.css",
-    "main.js": "/quickline/static/js/main.df4701e0.chunk.js",
-    "main.js.map": "/quickline/static/js/main.df4701e0.chunk.js.map",
+    "main.js": "/quickline/static/js/main.8516541b.chunk.js",
+    "main.js.map": "/quickline/static/js/main.8516541b.chunk.js.map",
     "runtime-main.js": "/quickline/static/js/runtime-main.cc49de10.js",
     "runtime-main.js.map": "/quickline/static/js/runtime-main.cc49de10.js.map",
     "static/css/2.af3c1da9.chunk.css": "/quickline/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.e9b56d98.chunk.js": "/quickline/static/js/2.e9b56d98.chunk.js",
-    "static/js/2.e9b56d98.chunk.js.map": "/quickline/static/js/2.e9b56d98.chunk.js.map",
+    "static/js/2.72001151.chunk.js": "/quickline/static/js/2.72001151.chunk.js",
+    "static/js/2.72001151.chunk.js.map": "/quickline/static/js/2.72001151.chunk.js.map",
     "index.html": "/quickline/index.html",
-    "precache-manifest.9d96ec05c4e656c203ca378fe77b6b3d.js": "/quickline/precache-manifest.9d96ec05c4e656c203ca378fe77b6b3d.js",
+    "precache-manifest.8363cc4c3e5a9a08a56f6ff63060262f.js": "/quickline/precache-manifest.8363cc4c3e5a9a08a56f6ff63060262f.js",
     "service-worker.js": "/quickline/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/quickline/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.14c89771.chunk.css.map": "/quickline/static/css/main.14c89771.chunk.css.map",
-    "static/js/2.e9b56d98.chunk.js.LICENSE.txt": "/quickline/static/js/2.e9b56d98.chunk.js.LICENSE.txt",
+    "static/js/2.72001151.chunk.js.LICENSE.txt": "/quickline/static/js/2.72001151.chunk.js.LICENSE.txt",
     "static/media/AirIcon.svg": "/quickline/static/media/AirIcon.613a0d55.svg",
     "static/media/AppIcon.svg": "/quickline/static/media/AppIcon.0391d443.svg",
     "static/media/index.scss": "/quickline/static/media/Glyphter.7f98b327.ttf",
@@ -77,7 +77,7 @@
     "static/media/tce.png": "/quickline/static/media/tce.95a1638f.png",
     "static/media/team.png": "/quickline/static/media/team.600e2465.png",
     "static/media/thinkaloud.png": "/quickline/static/media/thinkaloud.7260e7fd.png",
-    "static/media/tpm1.png": "/quickline/static/media/tpm1.55ce2471.png",
+    "static/media/tpm1.png": "/quickline/static/media/tpm1.3af1c5e1.png",
     "static/media/tpm2.png": "/quickline/static/media/tpm2.804a14fb.png",
     "static/media/vq.png": "/quickline/static/media/vq.285c1483.png",
     "static/media/wendy.png": "/quickline/static/media/wendy.56316de3.png"
@@ -85,8 +85,8 @@
   "entrypoints": [
     "static/js/runtime-main.cc49de10.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.e9b56d98.chunk.js",
+    "static/js/2.72001151.chunk.js",
     "static/css/main.14c89771.chunk.css",
-    "static/js/main.df4701e0.chunk.js"
+    "static/js/main.8516541b.chunk.js"
   ]
 }
