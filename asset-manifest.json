@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/quickline/static/css/main.37fa6366.chunk.css",
-    "main.js": "/quickline/static/js/main.1400aeb4.chunk.js",
-    "main.js.map": "/quickline/static/js/main.1400aeb4.chunk.js.map",
+    "main.js": "/quickline/static/js/main.53479d26.chunk.js",
+    "main.js.map": "/quickline/static/js/main.53479d26.chunk.js.map",
     "runtime-main.js": "/quickline/static/js/runtime-main.cc49de10.js",
     "runtime-main.js.map": "/quickline/static/js/runtime-main.cc49de10.js.map",
     "static/css/2.af3c1da9.chunk.css": "/quickline/static/css/2.af3c1da9.chunk.css",
     "static/js/2.29f5e007.chunk.js": "/quickline/static/js/2.29f5e007.chunk.js",
     "static/js/2.29f5e007.chunk.js.map": "/quickline/static/js/2.29f5e007.chunk.js.map",
     "index.html": "/quickline/index.html",
-    "precache-manifest.1b7cf2d202e87d23ffa41b42edb9a7d8.js": "/quickline/precache-manifest.1b7cf2d202e87d23ffa41b42edb9a7d8.js",
+    "precache-manifest.8b71dfe148c452faa0a01c3ef6382a84.js": "/quickline/precache-manifest.8b71dfe148c452faa0a01c3ef6382a84.js",
     "service-worker.js": "/quickline/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/quickline/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.37fa6366.chunk.css.map": "/quickline/static/css/main.37fa6366.chunk.css.map",
@@ -88,6 +88,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.29f5e007.chunk.js",
     "static/css/main.37fa6366.chunk.css",
-    "static/js/main.1400aeb4.chunk.js"
+    "static/js/main.53479d26.chunk.js"
   ]
 }
