@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/quickline/static/css/main.37fa6366.chunk.css",
-    "main.js": "/quickline/static/js/main.53479d26.chunk.js",
-    "main.js.map": "/quickline/static/js/main.53479d26.chunk.js.map",
+    "main.css": "/quickline/static/css/main.1950b0d0.chunk.css",
+    "main.js": "/quickline/static/js/main.452c3683.chunk.js",
+    "main.js.map": "/quickline/static/js/main.452c3683.chunk.js.map",
     "runtime-main.js": "/quickline/static/js/runtime-main.cc49de10.js",
     "runtime-main.js.map": "/quickline/static/js/runtime-main.cc49de10.js.map",
     "static/css/2.af3c1da9.chunk.css": "/quickline/static/css/2.af3c1da9.chunk.css",
     "static/js/2.29f5e007.chunk.js": "/quickline/static/js/2.29f5e007.chunk.js",
     "static/js/2.29f5e007.chunk.js.map": "/quickline/static/js/2.29f5e007.chunk.js.map",
     "index.html": "/quickline/index.html",
-    "precache-manifest.8b71dfe148c452faa0a01c3ef6382a84.js": "/quickline/precache-manifest.8b71dfe148c452faa0a01c3ef6382a84.js",
+    "precache-manifest.3057bf982e7608c01ee80e408fdbf9e7.js": "/quickline/precache-manifest.3057bf982e7608c01ee80e408fdbf9e7.js",
     "service-worker.js": "/quickline/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/quickline/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.37fa6366.chunk.css.map": "/quickline/static/css/main.37fa6366.chunk.css.map",
+    "static/css/main.1950b0d0.chunk.css.map": "/quickline/static/css/main.1950b0d0.chunk.css.map",
     "static/js/2.29f5e007.chunk.js.LICENSE.txt": "/quickline/static/js/2.29f5e007.chunk.js.LICENSE.txt",
     "static/media/AirIcon.svg": "/quickline/static/media/AirIcon.613a0d55.svg",
     "static/media/AppIcon.svg": "/quickline/static/media/AppIcon.0391d443.svg",
@@ -46,7 +46,7 @@
     "static/media/diarystudy.png": "/quickline/static/media/diarystudy.963f000a.png",
     "static/media/emily.png": "/quickline/static/media/emily.6c2b9e1e.png",
     "static/media/future.png": "/quickline/static/media/future.4c48cba2.png",
-    "static/media/hmw.svg": "/quickline/static/media/hmw.4eb66344.svg",
+    "static/media/hmw.svg": "/quickline/static/media/hmw.52fd5925.svg",
     "static/media/idea1.png": "/quickline/static/media/idea1.e2dde7b8.png",
     "static/media/idea2.png": "/quickline/static/media/idea2.0a67ddad.png",
     "static/media/idea3.png": "/quickline/static/media/idea3.19c582be.png",
@@ -87,7 +87,7 @@
     "static/js/runtime-main.cc49de10.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.29f5e007.chunk.js",
-    "static/css/main.37fa6366.chunk.css",
-    "static/js/main.53479d26.chunk.js"
+    "static/css/main.1950b0d0.chunk.css",
+    "static/js/main.452c3683.chunk.js"
   ]
 }
